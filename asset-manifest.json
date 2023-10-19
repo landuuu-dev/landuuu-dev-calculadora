@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/landuuu-dev-calculadora/static/css/main.e3a0ec98.css",
+    "main.js": "/landuuu-dev-calculadora/static/js/main.2be94aa4.js",
+    "index.html": "/landuuu-dev-calculadora/index.html",
+    "main.e3a0ec98.css.map": "/landuuu-dev-calculadora/static/css/main.e3a0ec98.css.map",
+    "main.2be94aa4.js.map": "/landuuu-dev-calculadora/static/js/main.2be94aa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a0ec98.css",
+    "static/js/main.2be94aa4.js"
+  ]
+}
